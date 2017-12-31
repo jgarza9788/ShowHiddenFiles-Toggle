@@ -6,7 +6,7 @@ a alfred workflow that shows/hides hidden files
 * Shows or Hide Hidden Files Easily
 
 ## Screenshots
-![Imgur](https://i.imgur.com/zAA7INE.png)
+![Imgur](https://i.imgur.com/pgKnX1G.png)
 
 ## Requirement(s)
 [Alfred](https://www.alfredapp.com/)
